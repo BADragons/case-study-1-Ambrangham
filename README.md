@@ -13,3 +13,12 @@ Three general goals for my website are:
 Having animators put animations on the home page of the website to help catch peoples' attention 
 Having artists put their art on the home page if they feel comfortable enough
 Removing any person that makes a problem for anybody or everybody else 
+
+The elements I would use to make it seem that my website is current are updating it regularly, putting the year on the bottom of the page 
+
+Connectivity tools I will use to encourage others to share my content are putting ads to promote 
+
+Creating something that lets people to talk to each other. Like a chat room or just on the website where you can either comment or private message. They could share ideas or share projects that they're working on. Using social media to engage with people would be another option. 
+
+My tagline would be "Aaahh hobby" since it's a website about hobbies 
+

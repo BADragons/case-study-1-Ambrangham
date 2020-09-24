@@ -1,5 +1,5 @@
 # WD-CaseStudy
-
+CASE STUDY 1
 I'm going to design a personal website.
 
 The website's purpose is to engage people to interact with one another in whatever their hobby is. If they have the same hobbies, they can talk to each other about what they like about it or why they like it. My targeted audience is specifically teenagers who don't have friends or people who want somebody to talk to. 
@@ -14,6 +14,8 @@ Having animators put animations on the home page of the website to help catch pe
 Having artists put their art on the home page if they feel comfortable enough
 Removing any person that makes a problem for anybody or everybody else 
 
+CASE STUDY 2
+
 The elements I would use to make it seem that my website is current are updating it regularly, putting the year on the bottom of the page 
 
 Connectivity tools I will use to encourage others to share my content are putting ads to promote 
@@ -22,3 +24,10 @@ Creating something that lets people to talk to each other. Like a chat room or j
 
 My tagline would be "Aaahh hobby" since it's a website about hobbies 
 
+I'm gonna use coloring to attract colors so I would try to make it look attractive enough to stay and look at. I think that either purple, blue, or red would be good. 
+
+Inverted pyramid 
+
+It would be easier to start with mobile devices rather than computers first. Getting used to how much space it takes for a mobile device and so there isn't too much space. Using a minimizer for mobile and a maximizer for computers and ipads. 
+
+Organizing content would make it easier for people to find what their looking for. Using easy, non-bright colors would make it easier on people who have visual impairments. Making sure my font isn't too big would help a lot because it lets people read easier, plus it doesn't take up as much space. 

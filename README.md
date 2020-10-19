@@ -35,6 +35,7 @@ Organizing content would make it easier for people to find what their looking fo
 Using colors like yellow, orange, light blue, bright pink, obviously white wouldn't work unless the background was black, maybe gray? Gray could be hard to read sometimes. Bright red might work, depending on how bright you make it. Making sure my font isn't too big would help a lot because it lets people read easier, plus it doesn't take up as much space. Making sure my font size isn't too big would make it easier on people who have to put reading glasses everytime they come across small texts. 
 
 Case Study 3 
+
 My website goals and objectives are to make people feel safe enough to share their ideas and hobbies. People could find someone in their age group that they have similar likes and hobbies. I also have a goal to remove anyone that is a problem for anyone else. If someone is being a problem, the person they're bothering could either block them or report that person to me and I'll figure out what to do with them. 
 
 I'm trying to get around the ages of 17-40 (hopefully nobody 50 and older would join) , for wants that they need, they could talk to me and I could add something that was suggested, I could try to include it to my website. 
@@ -48,3 +49,6 @@ I have five pages that I have thought of so far for my website. These pages incl
 I might add more pages later on, but that's all I have for now. I still need to sort out the color deal. 
 
 The website structure I'm using for my website is kind of like the linear style but not going sideways, it goes down. You probably know what I'm talking about but I don't really know how to explain it. I drew it out and organized where I think all my pages should go. 
+
+Case Study 4
+

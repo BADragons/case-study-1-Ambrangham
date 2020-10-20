@@ -22,9 +22,9 @@ Connectivity tools I will use to encourage others to share my content are puttin
 
 Creating something that lets people to talk to each other. Like a chat room or just on the website where you can either comment or private message. They could share ideas or share projects that they're working on. Using social media to engage with people would be another option. 
 
-My tagline would be "Aaahh hobby" since it's a website about hobbies. To be honest, I used a tagline generator to create it to give me an idea, but it is original. I didn't steal it, I swear. It gave me multiple choices to choose from (about 20 or more) and this was the one that didn't sound as stupid as the others. 
+My tagline would be *Aaahh hobby* since it's a website about hobbies. To be honest, I used a tagline generator to create it to give me an idea, but it is original. I didn't steal it, I swear. It gave me multiple choices to choose from (about 20 or more) and this was the one that didn't sound as stupid as the others. 
 
-I'm gonna use coloring to attract colors so I would try to make it look attractive enough to stay and look at. I think that either purple, blue, or red would be good. I'm thinking about using different text colors for different kinds of texts on every page. Each page would have a different text color than the last page. Blue with purple, teal with black, and red with (what does red go good with?)... maybe gold? Those are my text color ideas, hopefully they work out as good as I'm hoping. If I get more pages, I will add more colors for them. Edit: So after starting on Chapter 3, I read through this paragraph and realized that right now, I have 5 pages I plan to have. I will think of colors to add to those pages. 
+I'm gonna use coloring to attract colors so I would try to make it look attractive enough to stay and look at. I think that either purple, blue, or red would be good. I'm thinking about using different text colors for different kinds of texts on every page. Each page would have a different text color than the last page. Blue with purple, teal with black, and red with (what does red go good with?)... maybe gold or orange? Those are my text color ideas, hopefully they work out as good as I'm hoping. If I get more pages, I will add more colors for them. *Edit*: *So after starting on Chapter 3, I read through this paragraph and realized that right now, I have 5 pages I plan to have. I will think of colors to add to those pages.*
 
 Inverted pyramid and chunked text: 
 
@@ -44,11 +44,16 @@ I have five pages that I have thought of so far for my website. These pages incl
 1.) The home page which would include information about the website
 2.) A page for drawing, animations and stories that people could show off and share with others
 3.) A page for chat rooms that people could create, join, or I might create my own chat room that people could come in and ask questions. 
-4.) An about us page. This page will contain information on how the website was created, why the website was created, who helped with designing and creating the website, and adding links to people/channels that helped out with the website. (Youtubers, animators, big websites, and small websites) 
+4.) An about us page. This page will contain information on how the website was created, why the website was created, who helped with designing and creating the website, and adding links to people/channels that helped out with the website. (Youtubers, animators, big websites,small websites, etc.) 
 5.) A page for contacting the people that helped with the website (hopefully it's not only me) 
-I might add more pages later on, but that's all I have for now. I still need to sort out the color deal. 
+I might add more pages later on, but that's all I have for now. I still need to sort out the color deal. *Edit*: *I've made it official that there is not going to be more than five pages*
 
 The website structure I'm using for my website is kind of like the linear style but not going sideways, it goes down. You probably know what I'm talking about but I don't really know how to explain it. I drew it out and organized where I think all my pages should go. 
 
 Case Study 4
 
+Defining my website color scheme: I am using a different pair of colors for every one of my pages. I have a total of 5 pages right now. I'm thinking about teal and black, blue and purple, black and orange, green and orange, 
+
+For testing, it will most likely be me who's testing it. I might have my family try it out and test it, but I'll see what happens when we get there. There is going to be no cost because GitHub lets me create a website for free. I will also be the one who's maintaining and publishing things onto the website. Publishing would also go to the other people who post art and animations in the website. (*Right..?)
+
+The page layout for my homepage and what it's going to look like: There is going to be a search bar at the top right, the website name is going to be near the top left, 

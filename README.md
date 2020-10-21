@@ -57,3 +57,4 @@ Defining my website color scheme: I am using a different pair of colors for ever
 For testing, it will most likely be me who's testing it. I might have my family try it out and test it, but I'll see what happens when we get there. There is going to be no cost because GitHub lets me create a website for free. I will also be the one who's maintaining and publishing things onto the website. Publishing would also go to the other people who post art and animations in the website. (*Right..?)
 
 The page layout for my homepage and what it's going to look like: There is going to be a search bar at the top right, the website name is going to be near the top left, 
+I was testing colors on a HTML code editor

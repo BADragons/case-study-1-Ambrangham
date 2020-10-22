@@ -52,9 +52,8 @@ The website structure I'm using for my website is kind of like the linear style 
 
 Case Study 4
 
-Defining my website color scheme: I am using a different pair of colors for every one of my pages. I have a total of 5 pages right now. I'm thinking about teal and black, blue and purple, black and orange, green and orange, 
+Defining my website color scheme: I am using a different pair of colors for every one of my pages. I have a total of 5 pages right now. I'm thinking about teal and black, blue and purple, black and orange, green and orange, green and pink (watermelon colors) 
 
 For testing, it will most likely be me who's testing it. I might have my family try it out and test it, but I'll see what happens when we get there. There is going to be no cost because GitHub lets me create a website for free. I will also be the one who's maintaining and publishing things onto the website. Publishing would also go to the other people who post art and animations in the website. (*Right..?)
 
-The page layout for my homepage and what it's going to look like: There is going to be a search bar at the top right, the website name is going to be near the top left, 
-I was testing colors on a HTML code editor
+The page layout for my homepage and what it's going to look like: There is going to be a search bar at the top right, the website name is going to be near the top left, the tabs that lead to other pages of the website will be where they normally are below the search bar and the website name (not all the way to the bottom), information about my website and describing where everything is located will be in both chunked text and paragraph text.
